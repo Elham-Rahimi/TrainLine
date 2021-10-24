@@ -27,7 +27,6 @@ C:\Users\Elham\source\repos\InterviewTest\Interveiw\TrainLineTest\TrainLine\Trai
 C:\Users\Elham\source\repos\InterviewTest\Interveiw\TrainLineTest\TrainLine\TrainLine.CurrencyConverter\TrainLine.CurrencyConverter\obj\Debug\net5.0\staticwebassets\TrainLine.CurrencyConverter.StaticWebAssets.xml
 C:\Users\Elham\source\repos\InterviewTest\Interveiw\TrainLineTest\TrainLine\TrainLine.CurrencyConverter\TrainLine.CurrencyConverter\obj\Debug\net5.0\scopedcss\bundle\TrainLine.CurrencyConverter.styles.css
 C:\Users\Elham\source\repos\InterviewTest\Interveiw\TrainLineTest\TrainLine\TrainLine.CurrencyConverter\TrainLine.CurrencyConverter\obj\Debug\net5.0\TrainLine.CurrencyConverter.RazorTargetAssemblyInfo.cache
-C:\Users\Elham\source\repos\InterviewTest\Interveiw\TrainLineTest\TrainLine\TrainLine.CurrencyConverter\TrainLine.CurrencyConverter\obj\Debug\net5.0\TrainLine.CurrencyConverter.csproj.CopyComplete
 C:\Users\Elham\source\repos\InterviewTest\Interveiw\TrainLineTest\TrainLine\TrainLine.CurrencyConverter\TrainLine.CurrencyConverter\obj\Debug\net5.0\TrainLine.CurrencyConverter.dll
 C:\Users\Elham\source\repos\InterviewTest\Interveiw\TrainLineTest\TrainLine\TrainLine.CurrencyConverter\TrainLine.CurrencyConverter\obj\Debug\net5.0\ref\TrainLine.CurrencyConverter.dll
 C:\Users\Elham\source\repos\InterviewTest\Interveiw\TrainLineTest\TrainLine\TrainLine.CurrencyConverter\TrainLine.CurrencyConverter\obj\Debug\net5.0\TrainLine.CurrencyConverter.pdb
