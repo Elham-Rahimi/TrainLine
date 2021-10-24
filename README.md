@@ -10,14 +10,14 @@
 ## Run application
    To run the application from the project repository go to the `cd TrainLine/TrainLine.CurrencyConvertert/TrainLine.CurrencyConverter`
    Enter command `dotnet run` now the project should be visible at localhost:5000. 
-   You can test the project by either `swagger 
+   You can test the project by `swagger` in `http://localhost:5000/index.html`
 ## Run test
    To run the test for application from the project repository go to the 
 	`cd TrainLine/TrainLine.CurrencyConvertert/TrainLine.CurrencyConverterTeset`
    Enter command `dotnet test`
 # Pre-assumptions
 - User only enters the currency codes, not any signs or names. for instance, for US Dollars only USD is acceptable.
-- User can execute the endpoint via Swager.
+- User can execute the endpoint via Swagger.
 - Negative numbers are ok for users to enter as they can be converted either.
 
 # Improvments
