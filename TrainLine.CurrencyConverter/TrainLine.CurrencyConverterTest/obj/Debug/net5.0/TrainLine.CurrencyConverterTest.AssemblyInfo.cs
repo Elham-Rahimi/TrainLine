@@ -11,6 +11,9 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("TrainLine.CurrencyConverter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=nul" +
+    "l", "C:\\Users\\Elham\\source\\repos\\InterviewTest\\Interveiw\\TrainLineTest\\TrainLine\\Train" +
+    "Line.CurrencyConverter\\TrainLine.CurrencyConverter", "TrainLine.CurrencyConverter.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrainLine.CurrencyConverterTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

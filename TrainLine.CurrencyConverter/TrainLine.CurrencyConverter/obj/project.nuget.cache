@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JgBJUCic46oboGXIb4Gd9yYmvXwxxVU6UtrY1vL6zes+zYfSNxwh62tFeV9As0gDxCggJ5HQaNFX3+dQZU5eew==",
+  "dgSpecHash": "1XWvBn/NSFWrnCoUKOhoWdnPWjZJaTC1vAP9YnJKlXskeVrqyS1t/RPreBDbRUHjBl8YoA9TgJKvoVQhGVlluA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Elham\\source\\repos\\InterviewTest\\Interveiw\\TrainLineTest\\TrainLine\\TrainLine.CurrencyConverter\\TrainLine.CurrencyConverter\\TrainLine.CurrencyConverter.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\Elham\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Elham\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\Elham\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Elham\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512",
     "C:\\Users\\Elham\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\Elham\\.nuget\\packages\\swashbuckle.aspnetcore.newtonsoft\\6.2.3\\swashbuckle.aspnetcore.newtonsoft.6.2.3.nupkg.sha512",
     "C:\\Users\\Elham\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
