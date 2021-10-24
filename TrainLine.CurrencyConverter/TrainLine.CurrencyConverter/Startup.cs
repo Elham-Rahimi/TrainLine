@@ -9,6 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using TrainLine.CurrencyConverter.Infrustructures;
 using TrainLine.CurrencyConverter.Services.CurrencyConverterService;
 using TrainLine.CurrencyConverter.Services.ExchangeRateService;
 
@@ -39,6 +40,8 @@ namespace TrainLine.CurrencyConverter
                 c.RoutePrefix = "";
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Trainline v1");
             });
+
+            app.UseMiddleware<ExceptionAdapterMiddleware>();
 
             app.UseRouting();
 
